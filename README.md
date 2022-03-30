@@ -1,1 +1,1 @@
-# EduTech
+# EduNxt
